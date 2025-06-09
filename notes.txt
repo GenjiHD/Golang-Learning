@@ -1,0 +1,12 @@
+Lenguaje, Google => resolve concurencia y escalabilidad en sistemas modernos
+
+facil de aprender y de escribir
+
+altamente eficiente
+
+concurrencia incorporada
+
+
+javascript => mono hilo => por turnos (como persona 5 *last surprise sonando de fondo*)
+
+Usos comunes => servidores web, herramientas cli, apps web, cloud services
